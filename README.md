@@ -1,4 +1,4 @@
-Police Data ETL 
+# Police Data ETL 
 
 This repository demonstrates a pipeline where I download data from the police API with error handling, manipulate data to make suitable for further analyses and then load to a personal free tier AWS Postgres DB instance.
 
