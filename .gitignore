@@ -1,8 +1,0 @@
-*.csv
-*.html
-*.ipynb
-*.json
-extraction.py
-*.env
-*.pyc
-__pycache__/
