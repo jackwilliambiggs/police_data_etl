@@ -174,11 +174,3 @@ cursor.execute("grant select on table police_data to public")
 conn.commit()
 cursor.close()
 print("table police_data imported to db completed.")
-
-
-
-
-
-
-
-
